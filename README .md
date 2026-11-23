@@ -12,4 +12,7 @@ Namibia is an offline-first AI data integration and prospectivity tool designed 
 KoBold Metals (Zambia), Shenmai Holdings (Ghana), VRIFY / DORA 
 
 ## Stakeholders: 
-Ministry of Mines and Energy (MME), Ministry of Environment, Forestry and Tourism (MEFT), National Youth Developments
+Ministry of Mines and Energy (MME), Ministry of Environment, Forestry and Tourism (MEFT), National Youth Development. 
+
+## Reference project:
+(https://github.com)( XplorerHub/awesome-mineral-exploration) - Found via GitHub search (`mining geology python`). Guides our selection of open-source Python tools for drillhole data, geological modeling, and mineral prospectivity mapping.
